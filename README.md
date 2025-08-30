@@ -1,7 +1,7 @@
 #
 # 👩🏻‍💻 Felipe Borges
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Sou Felipe Borges, tenho 19 anos e curso Sistemas de Informação (4º período) em Duque de Caxias - RJ. Atuo como Desenvolvedor Back-End, com foco em Python, APIs, Banco de Dados e Automação. Tenho conhecimentos em C, PostgreSQL, Firebase, Git e GitHub. Atualmente desenvolvo um projeto que integra a API do Deezer com banco de dados. Gosto de aprender na prática e resolver problemas com código limpo e funcional. Tenho interesse especial por APIs, bancos de dados e automações. Busco uma oportunidade de estágio em desenvolvimento de software. Estou em constante aprendizado e pronto para contribuir em equipe. Aberto a novos desafios que acelerem meu crescimento na área.
 
