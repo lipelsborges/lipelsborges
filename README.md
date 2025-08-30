@@ -3,7 +3,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou Felipe Borges, tenho 19 anos e curso Sistemas de Informação (4º período) em Duque de Caxias - RJ. Atuo como Desenvolvedor Back-End, com foco em Python, APIs, Banco de Dados e Automação. Tenho conhecimentos em C, PostgreSQL, Firebase, Git e GitHub. Atualmente desenvolvo um projeto que integra a API do Deezer com banco de dados. Gosto de aprender na prática e resolver problemas com código limpo e funcional. Tenho interesse especial por APIs, bancos de dados e automações. Busco uma oportunidade de estágio em desenvolvimento de software. Estou em constante aprendizado e pronto para contribuir em equipe. Aberto a novos desafios que acelerem meu crescimento na área.
+Olá, meu nome é Felipe Leonardo Santana Borges e sou estudante de Sistemas de Informação, atualmente no quarto período da graduação. Tenho interesse em lógica de programação, desenvolvimento de software e exploração de APIs. Já desenvolvi projetos em Python e JavaScript, como jogos interativos e aplicações que utilizam a API do Deezer, sempre buscando aprimorar minhas habilidades e aprender novas formas de resolver problemas com tecnologia. Meu objetivo é me tornar um profissional de tecnologia capaz de criar soluções eficientes e inovadoras, com foco em programação e análise de sistemas. Estou em constante evolução, construindo meu portfólio e aplicando o que aprendo em projetos práticos. No meu tempo livre, gosto de estudar novas linguagens, resolver desafios de programação e compartilhar meus projetos no GitHub."
 
 
 ---
