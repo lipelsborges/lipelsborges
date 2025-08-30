@@ -3,7 +3,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, meu nome é Felipe Leonardo Santana Borges e sou estudante de Sistemas de Informação, atualmente no quarto período da graduação. Tenho interesse em lógica de programação, desenvolvimento de software e exploração de APIs. Já desenvolvi projetos em Python e JavaScript, como jogos interativos e aplicações que utilizam a API do Deezer, sempre buscando aprimorar minhas habilidades e aprender novas formas de resolver problemas com tecnologia. Meu objetivo é me tornar um profissional de tecnologia capaz de criar soluções eficientes e inovadoras, com foco em programação e análise de sistemas. Estou em constante evolução, construindo meu portfólio e aplicando o que aprendo em projetos práticos. No meu tempo livre, gosto de estudar novas linguagens, resolver desafios de programação e compartilhar meus projetos no GitHub."
+Olá, meu nome é Felipe Leonardo Santana Borges e sou estudante de Sistemas de Informação, atualmente no quarto período da graduação. Tenho interesse em lógica de programação, desenvolvimento de software e exploração de APIs. Já desenvolvi projetos em Python e JavaScript, como jogos interativos e aplicações que utilizam a API do Deezer, sempre buscando aprimorar minhas habilidades e aprender novas formas de resolver problemas com tecnologia. Meu objetivo é me tornar um profissional de tecnologia capaz de criar soluções eficientes e inovadoras, com foco em programação e análise de sistemas. Estou em constante evolução, construindo meu portfólio e aplicando o que aprendo em projetos práticos. No meu tempo livre, gosto de estudar novas linguagens, resolver desafios de programação e compartilhar meus projetos no GitHub.
 
 
 ---
