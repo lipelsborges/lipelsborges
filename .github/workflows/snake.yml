@@ -1,28 +1,30 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # executa todo dia à meia-noite
-  workflow_dispatch:
-
-permissions:
-  contents: write
+  schedule: # Executa a cada 12 horas
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Permite rodar manualmente
+  push: # Também executa quando você faz commit
+    branches:
+      - main
 
 jobs:
   build:
+    name: Generate GitHub contribution grid snake
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
+      - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
+      - name: Gera o arquivo da cobrinha
         uses: Platane/snk@v3
         with:
           github_user_name: lipelsborges
           outputs: dist/snake.svg
 
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Faz upload do resultado para o branch output
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
