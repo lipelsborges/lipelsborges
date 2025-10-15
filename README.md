@@ -96,4 +96,10 @@ Olá, meu nome é Felipe Leonardo Santana Borges e sou estudante de Sistemas de 
     src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lipelsborges&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=11"
 />
 
-<img src="https://raw.githubusercontent.com/lipelsborges/lipelsborges/output/snake.svg" alt="Snake animation" />
+
+<br clear="both"/>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lipelsborges/lipelsborges/output/snake.svg" alt="Snake animation" />
+</div>

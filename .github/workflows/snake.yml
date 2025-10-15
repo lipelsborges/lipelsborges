@@ -2,9 +2,9 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # executa todo dia à meia-noite
   workflow_dispatch:
-  
+
 permissions:
   contents: write
 
@@ -12,22 +12,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Setup Node
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
-
-      - name: Generate Snake
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: lipelsborges
           outputs: dist/snake.svg
 
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
