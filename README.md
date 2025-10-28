@@ -15,7 +15,7 @@ Olá, meu nome é Felipe Leonardo Santana Borges e sou estudante de Sistemas de 
     align="left" 
     alt="Python" 
     title="Python"
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
