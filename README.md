@@ -21,11 +21,11 @@ Olá, meu nome é Felipe Leonardo Santana Borges e sou estudante de Sistemas de 
 />
 <img
     align="left" 
-    alt="C" 
-    title="C"
+    alt="NodeJS" 
+    title="NodeJS"
     width="26px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
 <img 
     align="left" 
