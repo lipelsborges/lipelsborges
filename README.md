@@ -53,11 +53,11 @@ Olá, meu nome é Felipe Leonardo Santana Borges e sou estudante de Sistemas de 
 />
 <img 
     align="left" 
-    alt="PostgreSQL" 
-    title="PostgrSQL"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
