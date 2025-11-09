@@ -86,7 +86,7 @@ Olá, meu nome é Felipe Leonardo Santana Borges e sou estudante de Sistemas de 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;"
-    src = "https://github-readme-stats.vercel.app/api?username=lipelsborges&show_icons=true&theme=tokyonight&include_all_comimits=true&locale=pt-br"
+    src = "https://github-readme-stats.vercel.app/api?username=lipelsborges&show_icons=true&theme=tokyonight&include_all_comimits=true&locale=pt-b"
 />
 <img
     align="left"
