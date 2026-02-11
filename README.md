@@ -3,7 +3,6 @@
 
 **`Desenvolvedor FullStack`**
 
-# Olá, eu sou o Felipe Borges! 👋
 
 ### 🚀 Estagiário de Desenvolvimento na Agile Corp | Estudante de Sistemas de Informação
 
