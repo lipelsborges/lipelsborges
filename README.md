@@ -3,7 +3,25 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, meu nome é Felipe Leonardo Santana Borges e sou estudante de Sistemas de Informação, atualmente no quarto período da graduação. Tenho interesse em lógica de programação, desenvolvimento de software e exploração de APIs. Já desenvolvi projetos em Python e JavaScript, como jogos interativos e aplicações que utilizam a API do Deezer, sempre buscando aprimorar minhas habilidades e aprender novas formas de resolver problemas com tecnologia. Meu objetivo é me tornar um profissional de tecnologia capaz de criar soluções eficientes e inovadoras, com foco em programação e análise de sistemas. Estou em constante evolução, construindo meu portfólio e aplicando o que aprendo em projetos práticos. No meu tempo livre, gosto de estudar novas linguagens, resolver desafios de programação e compartilhar meus projetos no GitHub.
+# Olá, eu sou o Felipe Borges! 👋
+
+### 🚀 Estagiário de Desenvolvimento na Agile Corp | Estudante de Sistemas de Informação
+
+Sou graduando em **Sistemas de Informação**, atualmente no **5º período**, e atuo no desenvolvimento de soluções Full Stack. Meu foco principal é a construção e o consumo de **APIs**, criando integrações eficientes e sistemas escaláveis.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+---
 
 
 ---
