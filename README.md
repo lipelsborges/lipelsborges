@@ -11,6 +11,17 @@ Sou graduando em **Sistemas de Informação**, atualmente no **5º período**, e
 
 ---
 
+### 📝 Sobre mim
+
+* 🎓 **Educação:** 5º Período de Sistemas de Informação (Estácio).
+* 💼 **Atualidade:** Desenvolvendo projetos Full Stack e integrando APIs na Agile Corp.
+* 🧠 **Interesses:** Lógica de programação, arquitetura de sistemas e novas linguagens.
+* ⚡ **Objetivo:** Criar soluções inovadoras e eficientes através da tecnologia.
+
+---
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -22,16 +33,6 @@ Sou graduando em **Sistemas de Informação**, atualmente no **5º período**, e
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
-
-### 📝 Sobre mim
-
-* 🎓 **Educação:** 5º Período de Sistemas de Informação (Estácio).
-* 💼 **Atualidade:** Desenvolvendo projetos Full Stack e integrando APIs na Agile Corp.
-* 🧠 **Interesses:** Lógica de programação, arquitetura de sistemas e novas linguagens.
-* ⚡ **Objetivo:** Criar soluções inovadoras e eficientes através da tecnologia.
-
----
-
 
 ### 📊 Estatísticas
 <img
