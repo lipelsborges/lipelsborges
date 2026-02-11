@@ -20,8 +20,6 @@ Sou graduando em **Sistemas de Informação**, atualmente no **5º período**, e
 
 ---
 
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -31,6 +29,12 @@ Sou graduando em **Sistemas de Informação**, atualmente no **5º período**, e
 ![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+### 📫 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lipelsborges@gmail.com)
 
 ---
 
