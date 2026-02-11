@@ -43,11 +43,3 @@ Sou graduando em **Sistemas de Informação**, atualmente no **5º período**, e
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lipelsborges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lipelsborges&layout=compact&langs_count=7&theme=dark"/>
 </p>
-
-<img
-    align="left"
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;"
-    src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lipelsborges&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=11"
-/>
