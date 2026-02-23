@@ -40,6 +40,6 @@ Sou graduando em **Sistemas de Informação**, atualmente no **5º período**, e
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=lipelsborges&show_icons=true&theme=dark&count_private=true&v=123" />
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=lipelsborges&layout=compact&theme=dark&hide=handlebars,html" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lipelsborges&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipelsborges&layout=compact&theme=dark" />
 </p>
