@@ -40,6 +40,6 @@ Sou graduando em **Sistemas de Informação**, atualmente no **5º período**, e
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lipelsborges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lipelsborges&layout=compact&langs_count=10&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lipelsborges&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipelsborges&layout=compact&theme=dark&hide=handlebars,html"/>
 </p>
