@@ -42,5 +42,5 @@ Sou graduando em **Sistemas de Informação**, atualmente no **5º período**, e
 <p align="left">
   <img height="180em" src="https://github-readme-stats-one.vercel.app/api?username=lipelsborges&show_icons=true&theme=dracula&count_private=true&border_radius=10" />
 
-  <img height="495em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=lipelsborges&theme=dracula&hide=handlebars,html&count_private=true&layout=donut&border_radius=10" />
+  <img height="220em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=lipelsborges&theme=dracula&hide=handlebars,html&count_private=true&layout=donut&border_radius=10" />
 </p>
