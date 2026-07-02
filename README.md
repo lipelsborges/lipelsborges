@@ -6,7 +6,7 @@
 
 ### 🚀 Estagiário de Desenvolvimento na Agile Corp | Estudante de Sistemas de Informação
 
-Sou graduando em **Sistemas de Informação**, atualmente no **5º período**, e atuo no desenvolvimento de soluções Full Stack. Meu foco principal é a construção e o consumo de **APIs**, criando integrações eficientes e sistemas escaláveis.
+Sou graduando em **Sistemas de Informação**, atualmente no **6º período**, e atuo no desenvolvimento de soluções Full Stack. Meu foco principal é a construção e o consumo de **APIs**, criando integrações eficientes e sistemas escaláveis.
 
 ---
 
