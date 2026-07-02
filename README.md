@@ -12,7 +12,7 @@ Sou graduando em **Sistemas de Informação**, atualmente no **6º período**, e
 
 ### 📝 Sobre mim
 
-* 🎓 **Educação:** 5º Período de Sistemas de Informação.
+* 🎓 **Educação:** 6º Período de Sistemas de Informação.
 * 💼 **Atualidade:** Desenvolvendo projetos Full Stack e integrando APIs na Agile Corp.
 * 🧠 **Interesses:** Lógica de programação, arquitetura de sistemas e novas linguagens.
 * ⚡ **Objetivo:** Criar soluções inovadoras e eficientes através da tecnologia.
